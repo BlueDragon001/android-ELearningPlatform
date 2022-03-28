@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hcorp.tuition">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:fullBackupOnly="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Tuition"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".pGateways.PaymentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".dataList.VideoList"
+            android:exported="false" />
+        <activity
+            android:name=".dataList.DataList"
+            android:exported="false" />
+
+        <activity
+            android:name=".userHandler.UserProfile"
+            android:exported="false" />
+        <activity
+            android:name=".videoplayer.VideoPlayer"
+            android:exported="false"
+            android:screenOrientation="landscape"
+            android:theme="@style/Theme.Tuition" />
+        <activity
+            android:name=".userHandler.LogReg"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:screenOrientation="fullSensor"
+            android:theme="@style/Theme.Tuition">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <meta-data
+            android:name="ESewaClientId"
+            android:value = "${EClientID}" />
+        <meta-data
+            android:name="ESewaClientKey"
+            android:value="${EClientSecretKey}"
+            />
+    </application>
+
+</manifest>

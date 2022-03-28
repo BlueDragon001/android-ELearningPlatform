@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/listLayout"
+    android:layout_width="match_parent"
+    android:layout_height="50dp">
+
+    <TextView
+        android:id="@+id/videoListHolder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/box_layout"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:gravity="center|left"
+        android:padding="5dp"
+        android:text="TextView"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+</FrameLayout>

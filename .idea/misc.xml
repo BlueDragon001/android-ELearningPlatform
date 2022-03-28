@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/drawable/bg_shape_1.xml" value="0.2165" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/drawable/black_buttons.xml" value="0.26614583333333336" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/drawable/black_forward.xml" value="0.26614583333333336" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/drawable/black_rewind.xml" value="0.26614583333333336" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/drawable/black_semicircel.xml" value="0.26614583333333336" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/drawable/box_chips.xml" value="0.2165" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/drawable/box_layout.xml" value="0.2165" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/drawable/button_art.xml" value="0.14322916666666666" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/drawable/color_gradient.xml" value="0.26614583333333336" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/drawable/curvy_background.xml" value="0.30625" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/drawable/inputbar_art.xml" value="0.26614583333333336" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/drawable/negradient.xml" value="0.26614583333333336" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/drawable/next_button.xml" value="0.26614583333333336" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/drawable/oval.xml" value="0.26614583333333336" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/drawable/oval2.xml" value="0.26614583333333336" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/drawable/pause_button.xml" value="0.26614583333333336" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/drawable/semi_circle.xml" value="0.26614583333333336" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/drawable/semi_circleright.xml" value="0.26614583333333336" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/drawable/shapes.xml" value="0.26614583333333336" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/layout/activity_data_list.xml" value="0.176" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/layout/activity_log_reg.xml" value="0.25" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/layout/activity_login2.xml" value="0.29010416666666666" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/layout/activity_payment.xml" value="0.2368659420289855" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/layout/activity_registration.xml" value="0.25" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/layout/activity_registration2.xml" value="0.25" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/layout/activity_registration_landscape.xml" value="0.264" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/layout/activity_user_profile.xml" value="0.22192028985507245" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/layout/activity_video_list.xml" value="0.2" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/layout/activity_video_player.xml" value="0.25" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/layout/dropdown_items.xml" value="0.25" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/layout/layout_container.xml" value="0.25" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/layout/player_controller.xml" value="0.25" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/layout/progress_dialog.xml" value="0.24139492753623187" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/layout/subject_list.xml" value="0.29010416666666666" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/layout/subject_list_holder.xml" value="0.2" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/layout/subject_lit.xml" value="0.25" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/layout/user_profile.xml" value="0.264" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/layout/video_laist.xml" value="0.25" />
+        <entry key="..\:/Devlopment/AndroidDevlopment/Tuition/Tuition/app/src/main/res/layout/video_list.xml" value="0.29010416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

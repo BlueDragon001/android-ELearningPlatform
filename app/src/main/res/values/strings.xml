@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Tuition</string>
+    <string name="Topbar">Layout</string>
+    <string name="BottomBar">Layout</string>
+    <string name="UserProfile">Layout</string>
+    <string name="let_s_start">Let\'s Start</string>
+    <string name="login">Login</string>
+    <string name="next">Next</string>
+    <string name="SemiCircle">semiCircle</string>
+    <string name="let_s_create_your_account">Let\'s Create Your Account</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="gender">Gender</string>
+    <string name="profile_pic">Profile pic</string>
+    <string name="prfilePicSelector">Layout</string>
+    <string name="email">Email</string>
+    <string name="todo">TODO</string>
+    <string name="video_l_holder">Video L holder</string>
+    <string name="enter_your_number">Enter Your Number</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="choose_class">Choose Class</string>
+    <string name="dropDownCont">TextView</string>
+    <string name="previousButton">prevBuutton</string>
+    <string name="PlayButton">playBtn</string>
+    <string name="NextButton">nxtBtn</string>
+    <string name="loginUserName">UserName</string>
+    <string name="regestring_user">Regestring User</string>
+    <string name="click_here_to_login">Click here to Login</string>
+    <string name="layoutV">TopOval</string>
+    <string name="UserName">TextView</string>
+    <string name="userLogOut">Log Out</string>
+    <string name="userinfoEdit">Edit</string>
+    <string name="userEmail">TextView</string>
+    <string name="userContact">Contact No</string>
+    <string name="userEmaill">Email</string>
+    <string name="classInfo">ClassI</string>
+    <string name="change_contact">Change Contact</string>
+    <string name="new_username">New Username</string>
+    <string name="name">Name</string>
+    <string name="layout2">layout</string>
+    <string name="layout">layout</string>
+    <string name="ovaltop">ovalTop</string>
+    <string name="profilePicSelector">profilePic</string>
+    <string name="paymentMethod">Select Your Payment Option</string>
+    <string name="esewaText">ESewa</string>
+
+    <string-array name="Classes">
+        <item>Class 6</item>
+        <item>Class 7</item>
+        <item>Class 8</item>
+        <item>Class 9</item>
+        <item>Class 10</item>
+    </string-array>
+    <string-array name="Sex">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>

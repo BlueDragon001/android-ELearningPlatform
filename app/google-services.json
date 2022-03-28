@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "808605048756",
+    "firebase_url": "https://rawclass-97007.firebaseio.com",
+    "project_id": "rawclass-97007",
+    "storage_bucket": "rawclass-97007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808605048756:android:0c71f7e913b549d5685ce1",
+        "android_client_info": {
+          "package_name": "com.hcorp.tuition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808605048756-853ujrn0r60635tburdbhko43d58qkcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSWdvaGOcPuQHJAzATBdyajZVmfzLwQPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808605048756-853ujrn0r60635tburdbhko43d58qkcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
